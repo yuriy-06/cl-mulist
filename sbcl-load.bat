@@ -1,0 +1,1 @@
+sbcl --load C:\lisp\stk\mulist\load.lisp
